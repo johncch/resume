@@ -1,104 +1,99 @@
 Chong Han Chua
 
-  --- -----------------------------------------
-  c   johncch@outlook.com / +1 (412) 519-2749
-  w   https://fifthrevision.com
-  g   https://github.com/johncch
-  --- -----------------------------------------
+-   fifthrevision.com
+-   johncch@gmail.com
+-   +1 (412) 519-2749
+-   San Francisco, CA
 
 Hello
 
-I have 12+ years of experience leading and managing new product
-innovation focusing on Design and UX.
+Experienced designer building software and teams in enterprises and
+early stage companies.
 
 Experience
 
+VP of Design
+
+CodeSee, Mar 2022-Feb 2024
+
+-   Worked with the co-founders on the product strategy and design in
+    the product market fit and revenue search, resulting in >$1M in
+    pipeline.
+-   Shipped Service Maps, for service discovery, visualization, and
+    documentation; Function Maps, for codebase visualization at the
+    function level; and Automations, which is a code quality and
+    workflows automation tool.
+
 Head of Digital Experience
 
-Advanced MedTech, May 2019–Present
+Advanced MedTech, May 2019–Feb 2021
 
--   Part of the Extended Senior Leadership Team, reporting to CEO,
-    advising on all digital-related matters and exploring new digital
-    opportunities.
--   Built strategy and tactical roadmap for digital health opportunities
-    based on extensive ethnography conducted on key patient population
-    and stakeholders; collaborated across orgs to run pilot programs.
--   Led the shift from in person to digital marketing in response to
-    COVID-19, hired a 7-person team; collaborated with regional
-    marketing teams worldwide.
+-   Reported directly to the CEO; member of the extended senior
+    leadership team (15 of ~1500).
+-   Built the company’s digital business from zero to one. Assets
+    include digital apps and services for Urology with Pyx Health and
+    Lit-Control; Worst Pain Ever, the largest online kidney stone
+    patient community. The WPE channels grew from 0 to 300k+ members in
+    6 months with 2M+ content views, and created new key opinion leader
+    relationships and opportunities in the US.
+-   Led the global digital marketing team that worked with our regional
+    teams to bring marketing activities online. The team mitigated
+    pandemic related restrictions, improved digital traffic by 150%+,
+    conversions by 4.5x, and drove over $6M in pipeline revenue.
 
 Product Design Lead
 
 Honeycomb, Oct 2017–April 2019
 
-Honeycomb provides observability to modern dev teams to understand and
-debug production systems.
-
--   Redesigned product, IA and UI to advance observability use cases for
-    teams, expanding from just queries to multiple feature areas and
-    incorporating collaboration semantics into the product.
--   Revamped user onboarding experiences—walking through a very
-    technical product setup to reduce time-to-first value for new
-    trials—to achieve self-serve business objectives.
-
-CEO & Co-founder (Product development)
-
-Echlo, Jan 2016–Oct 2017
-
-Echlo explores productizing real-time geolocation. Our first app was
-Pulse.
-
--   Designed, built and launched a multi-user, concurrent, persistent,
-    location sharing mobile and web app in Swift and React. The app was
-    designed to be always on with minimal battery use, achieved using a
-    deep exploration into and understanding of the iOS tech stack.
--   Guided the product strategy from initial conception to later market
-    search efforts using both qualitative and quantitative user research
-    methods.
+-   As the first design hire (#15), I built the UX foundations for
+    Honeycomb. From setup, onboarding, navigation, team workflow, to
+    revamping the main query workflow, the new design enabled better
+    product adoption, utilization, and retention in engineering teams.
+-   Designed and shipped Traces, BubbleUp, and APM. This provided
+    Honeycomb with the ability to visualize services and answer
+    engineering questions, significantly improving time to value for
+    customers. This led to 2x ARR and the next funding round.
 
 Senior PM (Product & UX)
 
 Microsoft, Oct 2011–Dec 2015
 
--   One of few PMs working on UX, touching every product and feature
-    from Inbox, to Sweep, to Compose. Worked on the Hotmail to
-    Outlook.com redesign; eventually in the unification of email
-    products, the Outlook.com UX became the defacto experience.
--   Led efforts to research, generate and develop mobile strategy and
-    app ideas in an executive push for a mobile application strategy in
-    Office 365.
--   Led end-to-end product effort and engineering team for Twist. This
-    was a labs project to explore fun, social photo communications.
-    Drove research, planning, roadmap, and vision, partnering with
-    stakeholders to bring the product from conception to launch in the
-    iOS App Store.
+-   Worked on making Hotmail competitive with Gmail; product managed
+    compose, sweep, rules, and other power user features.
+-   UX PM owner through the redesign and rebrand to Outlook.com. From
+    the WSJ (2012), “Microsoft’s new Outlook.com looks elegant and has a
+    remarkably user-friendly interface. […] Outlook.com is a winner.”
+-   Led the development and launch of Twist, an iOS app for photo
+    communication, part of Office’s Snacky Apps strategy.
+
+Startups and Contracts
+
+2015–Present
+
+-   Co-founded LayerNext (2022), an infrastructure platform for CV/AI
+    workflows.
+-   Led the initial fundraising prototype for nSight Surgical (2021), a
+    hardware and software solution using AI for tracking objects inside
+    the operating room, spun out of Stanford.
+-   Consulted on the design and strategy for Escher Reality (2017,
+    exited to Niantic).
+-   Co-founded Echlo (2016-2017) and launched Pulse, a real-time group
+    location sharing app for iOS and web. Pulse was the first product
+    that can do accurate persistent location sharing with minimal
+    battery draw.
 
 Software Engineer
 
 IBM, Aug 2008–July 2010
 
--   Designed and built software in C++, Java and JS on project for the
-    largest telco company in Singapore delivering software for browsers
-    and touch-screen kiosks in the flagship store.
-
-Contract Design, Strategy, Development
-
-Self-employed, 2000–Present
-
--   Executed design, dev, and strategy work for clients of all sizes.
-    Most recently, design advisor to Escher Reality, a YC-funded
-    Augmented Reality (AR) startup (acquired by Niantic, 2017).
-    Developed brand and identity, led UX for AR, and designed and built
-    single and multiplayer AR experiences.
+-   Designed and built retail flow software for the largest telco in
+    Singapore.
 
 Education
 
 Masters in Human-Computer Interaction
 
 Carnegie-Mellon University, 2011
-
--   1st place, Microsoft Firenze BXT competition. 1st place, Yahoo!
-    HackU CMU.
 
 B.Eng (Hons.) in Electrical Engineering
 

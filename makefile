@@ -3,7 +3,7 @@ FILE = resume.md
 all: resume.pdf resume.txt resume.html resume.docx resume.tex
 
 %.pdf:
-	pandoc  $(FILE) -t html --css=templates/style.css --metadata-file=metadata/htmltopdf.yaml --section-divs -o output/$@
+	pandoc $(FILE) -t html --template templates/resume.html --css=templates/style.css --section-divs -o output/$@ --pdf-engine=weasyprint --pdf-engine-opt=--pdf-variant=pdf/ua-1 --metadata-file=metadata.yaml
 
 %.txt:
 	pandoc $(FILE) -f markdown -t plain -o output/$@

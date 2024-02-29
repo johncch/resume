@@ -1,82 +1,59 @@
+/** Font Definitions **/
+
+@font-face {
+  font-family: Bitter;
+  src: url("./fonts/Bitter-Regular.ttf") format(‘truetype’);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Bitter;
+  src: url("./fonts/Bitter-Italic.ttf") format(truetype’);
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: Inter Tight;
+  src: url("./fonts/InterTight-Medium.ttf") format(‘truetype’);
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Inter Tight;
+  src: url("./fonts/InterTight-Bold.ttf") format(truetype’);
+  font-weight: 700;
+  font-style: normal;
+}
+
+/** Baseline styles */
+
+@page {
+  size: letter;
+  margin: 0.3in 0.5in;
+  background: linear-gradient(
+    to bottom,
+    rgb(250, 240, 240) 0%,
+    rgb(250, 244, 240) 50%,
+    rgb(250, 240, 240) 100%
+  );
+}
+
 html,
 body {
   margin: 0;
   padding: 0;
   height: auto;
-  font-family: "adelle pe", sans-serif;
-  font-size: 15px;
+  font-family: "Bitter", Bitter, sans-serif;
+  font-size: 12px;
   line-height: 1.5em;
 }
 
 body {
   padding: 0.5em;
-  color: #444;
-}
-
-p {
-  margin-top: 0.3em;
-  margin-bottom: 0.5em;
-}
-
-ul {
-  margin-top: 0.3em;
-  margin-bottom: 0.3em;
-  margin-left: 0em;
-  padding-inline-start: 25px;
-  padding-left: 25px;
-}
-
-li {
-  padding-left: 0em;
-  margin-bottom: 0.2em;
-  margin-left: 0em;
-}
-
-section.level1 h1 {
-  font-size: 1.1em;
-  margin-top: 0;
-  margin-bottom: 0.3em;
-  float: left;
-  color: #909090;
-}
-
-section.level1 .level2,
-section.level1 > p {
-  margin-left: 150px;
-}
-
-section.level1 {
-  margin-bottom: 1em;
-}
-
-section.level2 {
-  margin-bottom: 1em;
-}
-
-#chong-han-chua {
-  margin-bottom: 1.5em;
-}
-
-#chong-han-chua h1 {
-  color: #444;
-  float: none;
-  margin-bottom: 0.5em;
-  font-size: 150%;
-  display: block;
-  margin-left: 0;
-}
-
-#chong-han-chua ul {
-  list-style: none;
-  padding: 0;
-}
-
-#chong-han-chua ul li {
-  padding: 0;
-}
-
-#experience .level2 {
-  margin-bottom: 1em;
+  color: #313333;
 }
 
 h1,
@@ -88,12 +65,22 @@ h6 {
   display: inline-block;
   margin-bottom: 0em;
   margin-top: 0;
+  font-family: Inter Tight;
+  font-weight: 600;
 }
 
 a {
-  text-decoration: none;
-  color: #2152c4;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  color: #113280;
 }
+
+p {
+  margin-top: 0.3em;
+  margin-bottom: 0.5em;
+}
+
+/** Items, headers and bullet points */
 
 h2 {
   font-size: 1.1em;
@@ -104,7 +91,7 @@ h2 {
 
 h2 + p:first-of-type {
   display: inline-block;
-  color: #909090;
+  color: #626262;
   margin-left: 0.8em;
   margin-top: 0;
   margin-bottom: 0em;
@@ -112,11 +99,79 @@ h2 + p:first-of-type {
   white-space: nowrap;
 }
 
-table {
-  width: 100%;
-  margin-bottom: 0;
+ul {
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+  margin-left: 0em;
+  padding-left: 2em;
+  list-style: none;
 }
 
-table td:first-of-type {
-  width: 20px;
+li {
+  padding-left: 0em;
+  margin-bottom: 0.2em;
+  margin-left: 0em;
+  position: relative;
+}
+
+li::before {
+  position: absolute;
+  display: inline-block;
+  left: -1.3em;
+  content: "▪︎";
+  color: #626262;
+}
+
+/** Left columns and section margins */
+
+section.level1 h1 {
+  font-size: 1.1em;
+  margin-top: 0;
+  margin-bottom: 0.3em;
+  float: left;
+  color: #626262;
+}
+
+section.level1 .level2,
+section.level1 > p {
+  margin-left: 8rem;
+}
+
+section.level1 {
+  margin-bottom: 1em;
+}
+
+section.level2 {
+  margin-bottom: 1em;
+}
+
+/** Title section */
+
+#chong-han-chua {
+  margin-bottom: 1.5em;
+}
+
+#chong-han-chua h1 {
+  color: #313333;
+  float: none;
+  margin-bottom: 0.5em;
+  font-size: 150%;
+  display: block;
+  margin-left: 0;
+  font-weight: 700;
+}
+
+#chong-han-chua ul {
+  list-style: none;
+  padding: 0;
+}
+
+#chong-han-chua ul li {
+  padding: 0;
+  display: inline-block;
+  margin-right: 1rem;
+}
+
+#chong-han-chua ul li:before {
+  content: none;
 }
