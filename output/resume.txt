@@ -1,93 +1,97 @@
 Chong Han Chua
 
--   fifthrevision.com
--   johncch@gmail.com
--   +1 (412) 519-2749
--   San Francisco, CA
+- fifthrevision.com
+- johncch@gmail.com
+- linkedin.com/in/johncch
+- San Francisco, CA
 
 Hello
 
-Experienced designer building software and teams in enterprises and
-early stage companies.
+Product leader with 15+ years exp designing technical products and
+scaling teams. Expertise in translating complexity into intuitive
+experiences, driving 0-to-1 product strategy, and delivering measurable
+impact. I’m focused on designing trustworthy AI that amplifies human
+judgment, creativity, and effort.
 
 Experience
 
+Fractional Head of Product & Design
+
+Self-employed, Mar 2024-Present
+
+- Orchestrated 0-to-1 product strategy for AI startups Butter Labs
+  (fintech) and Dryft (smart manufacturing) that acquired key customers
+  and unlocked $3M+ in oversubscribed seed funding.
+- Crafted Chorus’s artist‑centric design language that won marquee
+  music‑club partnerships (Modest Mouse, The Black Crowes, etc.) and
+  crossed revenue milestones.
+
 VP of Design
 
-CodeSee, Mar 2022-Feb 2024
+CodeSee (exited to GitKraken), Mar 2022-Feb 2024
 
--   Worked with the co-founders on the product strategy and design in
-    the product market fit and revenue search, resulting in >$1M in
-    pipeline.
--   Shipped Service Maps, for service discovery, visualization, and
-    documentation; Function Maps, for codebase visualization at the
-    function level; and Automations, which is a code quality and
-    workflows automation tool.
+- Partnered with co-founders on product strategy through customer
+  discovery resulting in >$1M in pipeline.
+- Shipped Service Maps, Function Maps and Automations, creating novel
+  approaches to code visualization that improved developer productivity.
+- Designed CodeSee AI, an agent-powered canvas for visualizing and
+  querying codebases.
 
 Head of Digital Experience
 
 Advanced MedTech, May 2019–Feb 2021
 
--   Reported directly to the CEO; member of the extended senior
-    leadership team (15 of ~1500).
--   Built the company’s digital business from zero to one. Assets
-    include digital apps and services for Urology with Pyx Health and
-    Lit-Control; Worst Pain Ever, the largest online kidney stone
-    patient community. The WPE channels grew from 0 to 300k+ members in
-    6 months with 2M+ content views, and created new key opinion leader
-    relationships and opportunities in the US.
--   Led the global digital marketing team that worked with our regional
-    teams to bring marketing activities online. The team mitigated
-    pandemic related restrictions, improved digital traffic by 150%+,
-    conversions by 4.5x, and drove over $6M in pipeline revenue.
+- Reported directly to the CEO as one of 15 senior leaders in a
+  1,500-person company. Built and led a 6+ person digital team across
+  PM, design, and marketing.
+- Launched new digital business in Urology delivering apps in
+  partnership with Pyx Health and Lit-Control.
+- Created Worst Pain Ever, growing it to the largest online kidney stone
+  patient community with 300k+ members in 6 months with 2M+ content
+  views, establishing new KOL relationships in the US.
+- Led global digital marketing transformation, created and grew
+  cross-functional team to 10, improving traffic by 150%+, conversions
+  by 4.5x, driving $6M+ in pipeline.
 
 Product Design Lead
 
 Honeycomb, Oct 2017–April 2019
 
--   As the first design hire (#15), I built the UX foundations for
-    Honeycomb. From setup, onboarding, navigation, team workflow, to
-    revamping the main query workflow, the new design enabled better
-    product adoption, utilization, and retention in engineering teams.
--   Designed and shipped Traces, BubbleUp, and APM. This provided
-    Honeycomb with the ability to visualize services and answer
-    engineering questions, significantly improving time to value for
-    customers. This led to 2x ARR and the next funding round.
+- First design hire, built UX foundations that contributed to 2x ARR
+  growth and next funding round.
+- Redesigned core query workflow, significantly improving product
+  adoption among engineering teams.
+- Designed and shipped Traces, BubbleUp, and APM which are marquee
+  product differentiators from incumbents that drive sales conversations
+  and revenue.
 
 Senior PM (Product & UX)
 
 Microsoft, Oct 2011–Dec 2015
 
--   Worked on making Hotmail competitive with Gmail; product managed
-    compose, sweep, rules, and other power user features.
--   UX PM owner through the redesign and rebrand to Outlook.com. From
-    the WSJ (2012), “Microsoft’s new Outlook.com looks elegant and has a
-    remarkably user-friendly interface. […] Outlook.com is a winner.”
--   Led the development and launch of Twist, an iOS app for photo
-    communication, part of Office’s Snacky Apps strategy.
+- Led UX strategy for Outlook.com redesign and rebrand from Hotmail,
+  praised by WSJ as having a “remarkably user-friendly interface” and
+  being “a winner”.
+- Product managed key Outlook.com features including compose, sweep, and
+  rules, increasing user engagement and improving competitive position
+  against Gmail.
+- Built Twist, an iOS app for photo communication, as part of Office’s
+  Snacky Apps portfolio.
 
-Startups and Contracts
+Additional Experience
 
-2015–Present
+2008–2024
 
--   Co-founded LayerNext (2022), an infrastructure platform for CV/AI
-    workflows.
--   Led the initial fundraising prototype for nSight Surgical (2021), a
-    hardware and software solution using AI for tracking objects inside
-    the operating room, spun out of Stanford.
--   Consulted on the design and strategy for Escher Reality (2017,
-    exited to Niantic).
--   Co-founded Echlo (2016-2017) and launched Pulse, a real-time group
-    location sharing app for iOS and web. Pulse was the first product
-    that can do accurate persistent location sharing with minimal
-    battery draw.
-
-Software Engineer
-
-IBM, Aug 2008–July 2010
-
--   Designed and built retail flow software for the largest telco in
-    Singapore.
+- Co-founded LayerNext (2022-2024). Computer vision (CV) infra pivoted
+  to AI business insights.
+- Led development of nSight Surgical’s fundraising prototype (2021), a
+  CV surgical tool tracking system.
+- Consulted on design for Escher Reality (2017, exited to Niantic)
+  building AR applications and interfaces.
+- Co-founded Echlo (2016-2017), pioneering real-time location sharing
+  with minimal battery consumption.
+- Software Engineer at IBM (2008-2010), building retail flow software
+  for Singapore’s largest telco.
 
 Education
 

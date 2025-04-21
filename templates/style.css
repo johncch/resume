@@ -53,7 +53,7 @@ body {
 
 body {
   padding: 0.5em;
-  color: #313333;
+  color: #31230c;
 }
 
 h1,
@@ -72,7 +72,8 @@ h6 {
 a {
   text-decoration: underline;
   text-decoration-style: dotted;
-  color: #113280;
+  text-decoration-color: #7c7569;
+  color: #31230c;
 }
 
 p {
@@ -91,7 +92,7 @@ h2 {
 
 h2 + p:first-of-type {
   display: inline-block;
-  color: #626262;
+  color: #7c7569;
   margin-left: 0.8em;
   margin-top: 0;
   margin-bottom: 0em;
@@ -119,7 +120,7 @@ li::before {
   display: inline-block;
   left: -1.3em;
   content: "▪︎";
-  color: #626262;
+  color: #7c7569;
 }
 
 /** Left columns and section margins */
@@ -129,7 +130,7 @@ section.level1 h1 {
   margin-top: 0;
   margin-bottom: 0.3em;
   float: left;
-  color: #626262;
+  color: #7c7569;
 }
 
 section.level1 .level2,
@@ -152,7 +153,7 @@ section.level2 {
 }
 
 #chong-han-chua h1 {
-  color: #313333;
+  color: #31230c;
   float: none;
   margin-bottom: 0.5em;
   font-size: 150%;
