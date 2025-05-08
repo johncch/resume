@@ -70,3 +70,7 @@ _Carnegie-Mellon University, 2011_
 ## B.Eng (Hons.) in Electrical Engineering
 
 _National University of Singapore, 2008_
+
+<footer>
+  ver{{VER}}. [Source](https://github.com/johncch/resume)
+</footer>
