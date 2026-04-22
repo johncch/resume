@@ -126,9 +126,12 @@ li {
 li::before {
   position: absolute;
   display: inline-block;
-  left: -1.3em;
-  content: "▪︎";
-  color: var(--color-secondary);
+  left: -1.1em;
+  top: 0.65em;
+  width: 0.25em;
+  height: 0.25em;
+  background-color: var(--color-secondary);
+  content: "";
 }
 
 /** Left columns and section margins */

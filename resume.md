@@ -15,7 +15,8 @@ Product leader with 15+ years exp designing technical products and scaling teams
 
 _Self-employed, Mar 2024-Present_
 
-- Orchestrated 0-to-1 product strategy for AI startups Butter Labs (fintech) and Dryft (smart manufacturing) that acquired key customers and unlocked $3M+ in oversubscribed seed funding.
+- Led design and engineering at [Empromptu (AI app builder)](https://www.empromptu.ai), shipping end-to-end with a 3-person team from 0 to $500K ARR in under 6 months.
+- Orchestrated 0-to-1 product strategy for AI startups [Butter Labs (fintech)](https://www.welikebutter.com) and [Dryft (smart manufacturing)](https://www.dryft.ai) that acquired key customers and unlocked $3M+ in oversubscribed seed funding.
 - Crafted [Chorus](https://www.thechorus.com)’s artist‑centric design language that won marquee music‑club partnerships (Modest Mouse, The Black Crowes, etc.) and crossed revenue milestones.
 
 ## VP of Design
@@ -33,7 +34,6 @@ _Advanced MedTech, May 2019–Feb 2021_
 - Reported directly to the CEO as one of 15 senior leaders in a 1,500-person company. Built and led a 6+ person digital team across PM, design, and marketing.
 - Launched new digital business in Urology delivering apps in partnership with Pyx Health and Lit-Control.
 - Created Worst Pain Ever, growing it to the largest online kidney stone patient community with 300k+ members in 6 months with 2M+ content views, establishing new KOL relationships in the US.
-- Led global digital marketing transformation, created and grew cross-functional team to 10, improving traffic by 150%+, conversions by 4.5x, driving $6M+ in pipeline.
 
 ## Product Design Lead
 
